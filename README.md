@@ -1,9 +1,9 @@
-# WindowsService.NET
-A sample Windows Service (.NET Framework) C# 
+# .NetFramework-Windows-Service
+A sample Windows Service (.NET 4.7.2 Framework) C# 
 
 ## Introduction
 
-This project is a boilerplate that can help ASP.NET C# developers to figure out how to create and configure a custom Windows Service in C# using Visual Studio 2019. For those who don't know much about Windows Services, it could be wise to quickly summarize what they actually are and how they differ from a standard console program or desktop application.
+This a .Net 4.7.2 project to figure out how to create and configure a custom Windows Service in C# using Visual Studio. For those who don't know much about Windows Services, it could be wise to quickly summarize what they actually are and how they differ from a standard console program or desktop application.
 
 ## Windows Services
 
