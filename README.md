@@ -1,4 +1,4 @@
-# .NetFramework-Windows-Service
+# .NetFramework Windows Service
 A sample Windows Service (.NET 4.7.2 Framework) C# 
 
 ## Introduction
